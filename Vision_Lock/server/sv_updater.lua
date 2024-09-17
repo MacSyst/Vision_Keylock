@@ -23,7 +23,7 @@ function checkForUpdate()
             local data = json.decode(response)
             local latestVersion = data.tag_name or "unknown"
 
-            local currentVersion = "1.0.0"
+            local currentVersion = "1.0.1"
 
             if latestVersion ~= currentVersion then
                 print("[^6Vision System^0 - ^6Update^0]^1 New Version of Script Online!^0")
