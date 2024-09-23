@@ -1,4 +1,4 @@
-local githubReleasesUrl = "https://api.github.com/repos/MacSyst/vision_queue/releases/latest"
+local githubReleasesUrl = "https://api.github.com/repos/MacSyst/Vision_Keylock/releases/latest"
 
 if Vision.Debug then
     local filename = function()
