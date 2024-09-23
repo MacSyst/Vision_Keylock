@@ -4,7 +4,7 @@ games { "gta5" }
 author "Kugelspitzer"
 name 'Vision_CarLock'
 discription 'a Simple Car Lock System'
-version '1.0.0'
+version '1.0.2'
 
 shared_script {
     "@es_extended/imports.lua",
